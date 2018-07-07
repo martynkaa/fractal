@@ -10,7 +10,14 @@ Run ``make``. An executable will compile. Runs on OS X.
 Run it with ``./fractol -flag``.
 
 ### Possible fractals are:
-<img width="480" alt="2018-07-07 6 36 51" src="https://user-images.githubusercontent.com/37776866/42406426-2a977f16-81b0-11e8-817a-998caa2e5008.png">
+
+* -m [Mandelbrot]
+* -j [Julia]
+* -t [Trictorn]
+* -c [Celtic]
+* -b [Burning Ship]
+* -h [Heart]
+* -f [Buffalo]
 
 ## Instructions
 <img width="448" alt="2018-07-07 6 37 59" src="https://user-images.githubusercontent.com/37776866/42406437-552e9110-81b0-11e8-8c65-a455f7cc2eee.png">
